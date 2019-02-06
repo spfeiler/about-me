@@ -1,0 +1,107 @@
+html {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Quattrocento Sans', sans-serif;
+    background: linear-gradient(to bottom, #ffffff 0%, #5dffdf 100%);
+}
+body {
+    width: 1210px;
+    margin: 55px auto;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 50px 0px black;
+}
+.macbook {
+    float: right;
+    margin: 30px 28px 0px 25px;
+    box-shadow: 0px 0px 10px 0px black;
+    line-height: 0;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    text-align: left;
+    line-height: 1;
+    color: #5dffdf;
+    margin: auto;
+    padding: 25px 0px 0px 25px;  
+    text-shadow: -1px 0 darkslategray, 0 1px darkslategray, 1px 0 darkslategray, 0 -1px darkslategray;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    text-align: left;
+    line-height: 1;
+    color: #5dffdf;
+    margin: auto;
+    padding: 5px 0px 0px 25px;  
+    text-shadow: -1px 0 darkslategray, 0 1px darkslategray, 1px 0 darkslategray, 0 -1px darkslategray;
+}
+.thanks {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+    line-height: 1.5;
+    color: #ff2a54;
+    margin: auto;
+    padding: 28px 0px 0px 25px; 
+}
+.intro {
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    color: black;
+    margin: auto;
+    padding: 15px 0px 0px 25px; 
+}
+.name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    line-height: 1.5;
+    color: #ff2a54;  
+    margin: auto;
+    padding: 10px 25px 0px 25px; 
+}
+.about {
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    color:black;
+    margin: auto;
+    padding: 20px 27px 0px 25px; 
+    clear: right;
+}
+.dog {
+    float: right;
+    margin: 25px 28px 25px 25px;
+    box-shadow: 0px 0px 10px 0px black;
+    line-height: 0;
+}
+.hobbies {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    line-height: 1;
+    color: #ff2a54; 
+    margin: auto;
+    padding: 25px 0px 10px 25px;
+}
+.facts {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    line-height: 1;
+    color: #ff2a54; 
+    margin: auto;
+    padding: 5px 25px 10px 25px;
+}
+ul {
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 1.5;
+    color:black;
+    margin: auto;
+    padding: 8px 25px 15px 50px;
+}
